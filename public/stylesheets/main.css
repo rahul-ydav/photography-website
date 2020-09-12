@@ -1,0 +1,26 @@
+body{
+    background: #d3f06d;
+}
+
+.thumbnail img{
+    width: 100%;
+}
+
+.thumbnail{
+    padding: 0;
+}
+
+.thumbnail .caption-full{
+    padding: 9px;
+}
+
+.delete-form{
+    display: inline;
+}
+
+/*  1. add image-responsive  class to the main thumbnails
+    2. text-align of the h1 of edit and new
+    3. delete comment(DONE)
+    4. update seeds by adding author to campgrounds
+    5. use connect-flash-plus
+    */
